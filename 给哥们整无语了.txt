@@ -1,0 +1,5 @@
+vs写完代码scanf_s记得改回来scanf
+
+printf（“%d后面记得带空格”，xxx）
+
+......
