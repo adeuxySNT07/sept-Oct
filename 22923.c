@@ -5,3 +5,5 @@ int main() {
 	printf("%d\n%d", a, b);
 	return 0;
 }
+
+//变量类型影响了输出结果
